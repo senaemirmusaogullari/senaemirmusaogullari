@@ -8,7 +8,7 @@
 [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@senaemirmusa)
 
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/https://cdn-icons-png.flaticon.com/128/5968/5968282.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
