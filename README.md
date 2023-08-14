@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @senaemirmusaogullari
-- 👀 I’m interested in web development, android develeopment
-- 🌱 I’m currently learning java and android
-- 📫 How to reach me 
+- 👀 I’m interested in web and android develeopment
+  
+  
 
 <!---
 senaemirmusaogullari/senaemirmusaogullari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
