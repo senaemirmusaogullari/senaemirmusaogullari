@@ -13,7 +13,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>
    <img align="center" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="javascript" width="40" height="40"/>
-   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="html" width="40" height="40"/>
+   <img align="center" src="https://iconscout.com/free-3d-logo/html-5728485" alt="html" width="40" height="40"/>
    <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="css" width="40" height="40"/>
    <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="swing" width="40" height="40"/>
    <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="springboot" width="40" height="40"/>
@@ -21,7 +21,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
-<h3 align="center">Design Tools I Use</h3>
+
 
 
 
