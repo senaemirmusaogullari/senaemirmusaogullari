@@ -22,7 +22,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=senaemirmusaogullari&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-streak-stats.herokuapp.com/?user=senaemirmusaogullari&theme=dark&hide_border=false)<br/>
 
 
 
