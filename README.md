@@ -15,7 +15,7 @@
    <img align="center" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="javascript" width="40" height="40"/>
    <img align="center" src="![image](https://github.com/senaemirmusaogullari/senaemirmusaogullari/assets/125875987/82b419d2-68ac-4f6b-af78-b793b93e3cc7)
 " alt="html" width="40" height="40"/>
-   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="css" width="40" height="40"/>
+   <img align="center" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/>
    <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="swing" width="40" height="40"/>
    <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="springboot" width="40" height="40"/>
   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="bootstrapt" width="40" height="40"/>
