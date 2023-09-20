@@ -17,7 +17,7 @@
 " alt="html" width="40" height="40"/>
    <img align="center" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/>
    <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="swing" width="40" height="40"/>
-   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="springboot" width="40" height="40"/>
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="springboot" width="40" height="40"/>
   <img align="center" src="https://developer.android.com/images/logos/android.svg" alt="bootstrapt" width="40" height="40"/>
   <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </p>
