@@ -2,6 +2,8 @@
 
 - Hi 👋, I’m @senaemirmusaogullari
 - 👀 I’m interested in web and android development
+- 👩‍💻 I'm currently a student of Upschool is Android Developer Program
+- 👩‍💻 I'm currently a student of Bilge Adam is Full Stack Developer Program
 - 📧 How to reach me: Mail on senaemirmusa@gmail.com
   
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/sena-emirmusaoğulları-b43358184/)
